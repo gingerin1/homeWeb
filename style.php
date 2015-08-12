@@ -522,7 +522,7 @@ p#empty {
 
 .aboutSite, .signoff, .signature {
 	text-indent: 0;
-	font-size: 2em;
+	font-size: 1.5em;
 	text-align: left;
 }
 
